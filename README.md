@@ -1,4 +1,8 @@
 # University Database Queries
+Created: 09/15/2018
+Latest Update: 09/15/2018
+By: Can Bekleyici - bekleydata.com
+
 ## Introduction
 This project goes through the complete process from database creation to SQL querying. In this example, a university database, that includes tables for <code>teacher</code>, <code>student</code>, <code>course</code>, and their relations <code>teaches</code> and <code>takes</code>, have been created using the Databse Management System (DBMS) <code>PostgreSQL</code>. A variety of queries have been conducted in order to get certain informations out of the databse.
 
