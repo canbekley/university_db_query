@@ -11,7 +11,7 @@ This project goes through the complete process from database creation to SQL que
 <ul><li><code>university_db_query.html</code> - the full report as an HTML file</li>
   <li><code>university_db_query.ipynb</code> - a JSON file, formatted for the usage in Jupyter Notebook</li>
   <li><code>environment.yaml</code> - the environment containing the packages and their versions to be used with Anaconda</li>
-  <li><code>requirements.txt</code> - all packages and their versions listed in a txt-file</li>
+  <li><code>requirements.txt</code> - all packages and their versions listed in a txt-file</li></ul>
 
 ### Installation:
 In order to run the project on <code>Anaconda</code>, you will need to download the files <code>university_db_query.ipynb</code> and <code>environment.yaml</code> and save them in the same directory. You may also need Anaconda and PostgreSQL installed on your computer (download link: <url>https://www.anaconda.com/</url> | <url>https://www.postgresql.org/</url>). Next, you will have to navigate with the <code>Anaconda Prompt</code> to the directory of the files. Create the environment using <code>conda env create -f environment.yaml</code> and activate it with <code>activate py3</code>. Now you can open the notebook by typing in <code>Jupyter Notebook</code> and run the IPYNB file from there.
