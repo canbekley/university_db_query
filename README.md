@@ -6,7 +6,7 @@ By: Can Bekleyici - bekleydata.com<br>
 ## Introduction
 This project goes through the complete process of creating a database and performing SQL queries in Python using the SQLAlchemy package. In this example, a university database, that includes tables for <code>teacher</code>, <code>student</code>, <code>course</code>, and their relations <code>teaches</code> and <code>takes</code>, have been created using the Database Management System (DBMS) <code>PostgreSQL</code>. The database has then been filled with "dummy data" in order to perform different SQL queries on single and multiple tables.
 
-SQLAlchemy is a tool for SQL toolkit for Python, created by Mike Bayer (see the repository here: https://github.com/zzzeek/sqlalchemy ).
+SQLAlchemy is a SQL toolkit for Python, created by Mike Bayer (see the repository here: https://github.com/zzzeek/sqlalchemy ).
 
 ## Prerequisite
 ### Files that are included:
